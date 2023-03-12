@@ -1,0 +1,15 @@
+C:\Users\Rafael\Desktop\DEVinDocuments\bin\Debug\net6.0\DEVinDocuments.exe
+C:\Users\Rafael\Desktop\DEVinDocuments\bin\Debug\net6.0\DEVinDocuments.deps.json
+C:\Users\Rafael\Desktop\DEVinDocuments\bin\Debug\net6.0\DEVinDocuments.runtimeconfig.json
+C:\Users\Rafael\Desktop\DEVinDocuments\bin\Debug\net6.0\DEVinDocuments.dll
+C:\Users\Rafael\Desktop\DEVinDocuments\bin\Debug\net6.0\DEVinDocuments.pdb
+C:\Users\Rafael\Desktop\DEVinDocuments\obj\Debug\net6.0\DEVinDocuments.csproj.AssemblyReference.cache
+C:\Users\Rafael\Desktop\DEVinDocuments\obj\Debug\net6.0\DEVinDocuments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\DEVinDocuments\obj\Debug\net6.0\DEVinDocuments.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\DEVinDocuments\obj\Debug\net6.0\DEVinDocuments.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\DEVinDocuments\obj\Debug\net6.0\DEVinDocuments.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\DEVinDocuments\obj\Debug\net6.0\DEVinDocuments.dll
+C:\Users\Rafael\Desktop\DEVinDocuments\obj\Debug\net6.0\refint\DEVinDocuments.dll
+C:\Users\Rafael\Desktop\DEVinDocuments\obj\Debug\net6.0\DEVinDocuments.pdb
+C:\Users\Rafael\Desktop\DEVinDocuments\obj\Debug\net6.0\DEVinDocuments.genruntimeconfig.cache
+C:\Users\Rafael\Desktop\DEVinDocuments\obj\Debug\net6.0\ref\DEVinDocuments.dll
